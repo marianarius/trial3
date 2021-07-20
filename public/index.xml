@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anbarasu Karthikaichamy</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anbarasu Karthikaichamy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Anbarasu Karthikaichamy</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular toolkit for marine protists</title>
+      <link>/project/labyrinthulomycete-/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/labyrinthulomycete-/</guid>
+      <description>&lt;p&gt;Labyrinthulomycetes are osmoheterotrophic unicellular eukaryotes that play fungus-like roles in marine ecosystems and are also used biotechnologically in the production of essential omega-3 polyunsaturated fatty acid dietary supplements. Our long-term goal is to develop tools and techniques that enable functional genomic studies in marine protists. We have developed a plasmid to visualize actin filament polymerization during ectoplasmic net formation in Aurantiochytrium. Recently, we have started working on comparative genome analysis of the mitogenome of Labyrinthulomycetes (thraustochytrids, aplanochytrids, and labyrinthulids), that addresses the unique codon usage and inter-organellar gene transfer in Labyrinthulomycetes.
+link: &lt;a href=&#34;http://you.stonybrook.edu/labyrinthulomycetes/&#34;&gt;http://you.stonybrook.edu/labyrinthulomycetes/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Data-Independent-Acquisition-based proteomic approach towards understanding the acclimation strategy of Microchloropsis gaditana CCMP526 in hypersaline conditions</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-photochemical quenching, a non-invasive probe for monitoring microalgal grazing- an early indicator of predation by Oxyrrhis marina and Euplotes sp.</title>
+      <link>/publication/grazer-npq/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/grazer-npq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIA-based proteomic approach towards understanding the acclimation strategy of Microchloropsis gaditana CCMP526 in hypersaline conditions</title>
+      <link>/project/algal-stress-response-proteomics/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/algal-stress-response-proteomics/</guid>
+      <description>&lt;p&gt;Salinity is one of the significant factors that affect growth and cellular metabolism, including photosynthesis and lipid accumulation, in microalgae and higher plants. Microchloropsis gaditana CCMP526 can acclimatize to different salinity levels by accumulating compatible solutes, carbohydrates, and lipids as an energy storage molecule. We used proteomics to understand the molecular basis for acclimation of M. gaditana to increased salinity levels (55 and 100 PSU (Practical Salinity Unit). Correspondence analysis (CA) was used for the identification of salinity-responsive proteins (SRPs). The highest number of altered proteins was observed in 100 PSU. Gene Ontology (GO) enrichment analysis revealed a separate path of acclimation for cells exposed to 55 and 100 PSU. Osmolyte and lipid biosynthesis was up-regulated in high saline conditions. However, concomitantly lipid oxidation pathways were also up-regulated at high saline conditions, providing acetyl-CoA for energy metabolism through the TCA cycle. Carbon fixation and photosynthesis were tightly regulated, while chlorophyll biosynthesis was affected under high salinity conditions. Importantly, temporal proteome analysis of salinity-challenged M. gaditana revealed vital salinity-responsive proteins which could be used for strain engineering for improved salinity resistance&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal acclimation of Microchloropsis gaditana CCMP526 in response to hypersalinity</title>
+      <link>/project/algal-stress-response/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/algal-stress-response/</guid>
+      <description>&lt;p&gt;Evaporation from culture ponds and raceways can subject algae to hypersalinity stress, and this is exacerbated by global warming. We investigated the effect of salinity on a marine microalga, Microchloropsis gaditana, which is of industrial significance because of its high lipid-accumulating capability. Both short-term (hours) and medium-term (days) effects of salinity were studied across various salinities (38, 55, 70 and 100 PSU). Salinity above 55 PSU supressed cell growth and specific growth rate was significantly reduced at 100 PSU. Photosynthesis (Fv/Fm, rETRmax and Ik) was severely affected at high salinity conditions. Total carbohydrate per cell increased ~1.7 fold after 24 hr, which is consistent with previous findings that salinity induces osmolyte production to counter osmotic shock. In addition, accumulation of lipid increased by ~4.6 fold in response to salinity. Our findings indicate a possible mechanism of acclimation to salinity, opening up new frontiers for osmolytes in pharmacological and cosmetics applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Algae that grows on toxic gas and a reactive metal!</title>
+      <link>/talk/rss/</link>
+      <pubDate>Fri, 18 May 2018 09:00:00 +0000</pubDate>
+      <guid>/talk/rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using salt to manipulate algae</title>
+      <link>/post/phd-story/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/post/phd-story/</guid>
+      <description>&lt;p&gt;Anbarasu Karthikaichamy, a research scholar with the IITB-Monash Research Academy, loves to narrate the fable about the king and salt.&lt;/p&gt;
+&lt;p&gt;The one where the king once asked his daughter how dear he was to her, to which she replied as dear as salt, and how this angered him no end, till the princess invited him to a feast where every dish lacked salt, and how he then realised the importance of this seemingly insignificant mineral in our lives.&lt;/p&gt;
+&lt;p&gt;“Salt and algae might appear to be unlikely bedfellows, but algae can grow in highly saline conditions,” chuckles Anbarasu, whose PhD project is titled, ‘Generating gene expression tools for algal molecular manipulation’.&lt;/p&gt;
+&lt;p&gt;So what got this gold medalist from Anna University, Chennai interested in this field?&lt;/p&gt;
+&lt;p&gt;“Biotechnology is a fast developing domain. Available genomic tools like high throughput sequencing can create an enriched gene pool which can be used for multiple benefits. However, one of the bottlenecks for any genetic engineering strategy is the availability of appropriate gene expression tools, mainly promoters, to express the genes at the right time, right level, and at the right places,” explains Anbarasu. “And this is where algae helps. Though it has traditionally been used as a biomass source to synthesise molecules, attention has now turned towards using algae to isolate other molecules or using it as a bio-reactor to produce valuable pharmaceuticals and therapeutically important proteins like antibodies, cholera vaccine, etc.”&lt;/p&gt;
+&lt;p&gt;Algae, as a third-generation bio-fuel producer, requires relatively little space compared to its well evolved counterparts (plants). Besides, it can grow in a variety of conditions (including in a saline water body), consuming carbon dioxide much more efficiently than land plants.&lt;/p&gt;
+&lt;p&gt;Anbarasu is closely studying the physiological changes that occur in algae during increased saline conditions. “I will be collecting algae samples in different conditions (depending on the interest of regulation points—like growth stages, sunlight intensity, heat, etc.), freezing them, and analysing the mRNA (messenger RNA) and protein levels. This should provide clues to isolate promoters for the genes of interested regulations,” he says.&lt;/p&gt;
+&lt;p&gt;The IITB-Monash Research Academy is a collaboration between India and Australia that endeavours to strengthen scientific relationships between the two countries. Graduate research scholars like Anbarasu study for a dually-badged PhD from both IIT Bombay and Monash University, spending time at both institutions to enrich their research experience.&lt;/p&gt;
+&lt;p&gt;Says Prof Murali Sastry, CEO of the Academy, “Anbarasu is attempting to exploit algae to produce valuable compounds at a cheaper cost. This will help bring down prices of many products—especially in the pharmaceutical and therapeutics industry.”&lt;/p&gt;
+&lt;p&gt;Only an ignoramus would take such a study with a pinch of salt!&lt;/p&gt;
+&lt;p&gt;This story was written by Mr Krishna Warrier based on inputs from the research student, his supervisors and IITB-Monash Research Academy. Copyright IITB-Monash Research Academy.&lt;/p&gt;
+&lt;p&gt;Supervisors: Prof Santosh Noronha, Prof Sanjeeva Srivastava, Prof Dieter Bulach, Prof Ross Coppel and Dr Santanu Dasgupta.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal acclimation of Microchloropsis gaditana CCMP526 in response to hypersalinity</title>
+      <link>/publication/algae-physiology/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/algae-physiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time for Multiple Extraction Methods in Proteomics? A Comparison of Three Protein Extraction Methods in the Eustigmatophyte Alga Microchloropsis gaditana CCMP526</title>
+      <link>/publication/omics-research/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/omics-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time for multiple protein extraction methods in proteomics?</title>
+      <link>/project/algal-protein-extraction/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/project/algal-protein-extraction/</guid>
+      <description>&lt;p&gt;Proteomics has become a valuable tool for investigating many aspects of cell and organismal biology. However, a fundamental requirement for an accurate examination of the protein complement of cells is an efficient method for extracting the proteins. This study reports the evaluation of three protein extraction methods; TCA-Acetone, phenol, and TRIzol, on Microchloropsis gaditana CCMP526 for proteomic analysis. LC-MS/MS based proteomic analysis was performed for proteins obtained using the different methods and the effect of the different extraction methods was examined by abundance ratio. Sub-cellular localization of the identified proteins revealed no significant difference between the extraction methods. Protein yield was higher using the TCA-Acetone and phenol methods than with the TRIzol method. A comparative analysis of three extraction methods revealed that the TCA method was superior in terms of protein coverage and abundance. Further, it was interesting to note that each method revealed a unique set of proteins, reinstating the importance of using multiple protein extraction methods for comprehensive proteome coverage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal Acclimation of Microchloropsis gaditana CCMP526 in resposne to hyper-osmolarity</title>
+      <link>/talk/ipc/</link>
+      <pubDate>Sun, 13 Aug 2017 09:00:00 +0000</pubDate>
+      <guid>/talk/ipc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Investigation of Extraction Methods for Proteomic Analysis of Nannochloropsis gaditana CCMP526</title>
+      <link>/talk/abo/</link>
+      <pubDate>Sun, 23 Oct 2016 09:00:00 +0000</pubDate>
+      <guid>/talk/abo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-omics Frontiers in Algal Research- Techniques and Progress to Explore Biofuels in the Postgenomics World</title>
+      <link>/publication/omics-review/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/omics-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of the RNase P RNA structural domain in Leptospira spp.</title>
+      <link>/publication/resmic/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/resmic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the Molecular Significance of c-Src and mTor in Estrogen Mediated Breast Cancer Proliferation – an Invitro Study</title>
+      <link>/project/breast-cancer/</link>
+      <pubDate>Mon, 27 May 2013 00:00:00 +0000</pubDate>
+      <guid>/project/breast-cancer/</guid>
+      <description>&lt;p&gt;Estrogen plays a major role through transcriptional regulation of its target genes. 17β-Estradiol, the predominant circulating estrogen, is known to be a major causative factor in the tumorigenesis of breast cancer. It acts on its target cells through genomic or non-genomic pathway, both involving binding of estrogen to estrogen receptor (ER). Invitro studies using MCF-7 (ER +ve, breast cancer cells) have shown that estrogen independently cannot activate the proliferation of serum starved MCF-7 cells, unless supplemented with certain growth factors like IGF, EGF, etc. Therefore the study attempts to understand the exact role of estrogen in modulating the transcriptional activity of c-Src and mTOR. MCF-7 cells showed increased proliferation rate in mitogenic response to 17β Estradiol (10 nM). To understand the role of non-genomic adaptor proteins in E2 mediated breast cancer proliferation, MCF7 cells were treated with c-Src inhibitor PP1 (10, 100 nM) in the presence and absence of E2. Interestingly, we observed a suppression of cell proliferation in PP1 treated cells whereas addition of E2 increased cell proliferation in a time dependent manner. mTOR inhibitor rapamycin (10nM) alone enhanced cell proliferation whereas in the presence of E2, a suppression in cell growth was observed, coinciding with the 3-H thymidine uptake assay. To understand further, downstream of E2 responsive genes (pS2 and WISP-2) were studied using RT-PCR. GAPDH was used as loading control. Western blot analysis of cell cycle markers such as Cyclin D3, Cyclin E, Cyclin dependent kinases (CDK 2 and 4) and E2F revealed that the inhibition of proliferation is not due to cell cycle arrest. β-actin was used as a loading control. Long term effect on cell proliferation was also studied using colony formation assay. Conclusively all these results show that c-Src is active only when stimulated by liganded estrogen receptor (ER). The same is the case with the rapamycin. These results help to understand insights about c-Src and mTOR and in development of effective drugs against estrogen positive breast cancer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolution of the RNase P RNA structural domain in Leptospira spp.</title>
+      <link>/project/leptospira/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/project/leptospira/</guid>
+      <description>&lt;p&gt;We have employed the RNase P RNA (RPR) gene, which is present as single copy in chromosome I of Leptospira spp. to investigate the phylogeny of structural domains present in the RNA subunit of the tRNA processing enzyme, RNase P. RPR gene sequences of 150 strains derived from NCBI database along with sequences determined from 8 reference strains were examined to fathom strain specific structural differences present in leptospiral RPR. Sequence variations in the RPR gene impacted on the configuration of loops, stems and bulges found in the RPR highlighting species and strain specific structural motifs. In vitro transcribed leptospiral RPR ribozymes are demonstrated to process pre-tRNA into mature tRNA in consonance with the positioning of Leptospira in the taxonomic domain of bacteria. RPR sequence datasets used to construct a phylogenetic tree exemplified the segregation of strains into their respective lineages with a (re)speciation of strain SH 9 to Leptospira borgpetersenii, strains Fiocruz LV 3954 and Fiocruz LV 4135 to Leptospira santarosai, strain CBC 613 to Leptospira kirschneri and strain HAI 1536 to Leptospira noguchii. Furthermore, it allowed characterization of an isolate P2653, presumptively characterized as either serovar Hebdomadis, Kremastos or Longnan to Leptospira weilii, serovar Longnan.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

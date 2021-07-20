@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanjeeva Srivastava | Anbarasu Karthikaichamy</title>
+    <link>/author/sanjeeva-srivastava/</link>
+      <atom:link href="/author/sanjeeva-srivastava/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sanjeeva Srivastava</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Sanjeeva Srivastava</title>
+      <link>/author/sanjeeva-srivastava/</link>
+    </image>
+    
+    <item>
+      <title>A Data-Independent-Acquisition-based proteomic approach towards understanding the acclimation strategy of Microchloropsis gaditana CCMP526 in hypersaline conditions</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal acclimation of Microchloropsis gaditana CCMP526 in response to hypersalinity</title>
+      <link>/publication/algae-physiology/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/algae-physiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time for Multiple Extraction Methods in Proteomics? A Comparison of Three Protein Extraction Methods in the Eustigmatophyte Alga Microchloropsis gaditana CCMP526</title>
+      <link>/publication/omics-research/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/omics-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-omics Frontiers in Algal Research- Techniques and Progress to Explore Biofuels in the Postgenomics World</title>
+      <link>/publication/omics-review/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/omics-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

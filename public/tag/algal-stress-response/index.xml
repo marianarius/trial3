@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algal stress response | Anbarasu Karthikaichamy</title>
+    <link>/tag/algal-stress-response/</link>
+      <atom:link href="/tag/algal-stress-response/index.xml" rel="self" type="application/rss+xml" />
+    <description>Algal stress response</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Algal stress response</title>
+      <link>/tag/algal-stress-response/</link>
+    </image>
+    
+    <item>
+      <title>A Data-Independent-Acquisition-based proteomic approach towards understanding the acclimation strategy of Microchloropsis gaditana CCMP526 in hypersaline conditions</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-photochemical quenching, a non-invasive probe for monitoring microalgal grazing- an early indicator of predation by Oxyrrhis marina and Euplotes sp.</title>
+      <link>/publication/grazer-npq/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/grazer-npq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIA-based proteomic approach towards understanding the acclimation strategy of Microchloropsis gaditana CCMP526 in hypersaline conditions</title>
+      <link>/project/algal-stress-response-proteomics/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/algal-stress-response-proteomics/</guid>
+      <description>&lt;p&gt;Salinity is one of the significant factors that affect growth and cellular metabolism, including photosynthesis and lipid accumulation, in microalgae and higher plants. Microchloropsis gaditana CCMP526 can acclimatize to different salinity levels by accumulating compatible solutes, carbohydrates, and lipids as an energy storage molecule. We used proteomics to understand the molecular basis for acclimation of M. gaditana to increased salinity levels (55 and 100 PSU (Practical Salinity Unit). Correspondence analysis (CA) was used for the identification of salinity-responsive proteins (SRPs). The highest number of altered proteins was observed in 100 PSU. Gene Ontology (GO) enrichment analysis revealed a separate path of acclimation for cells exposed to 55 and 100 PSU. Osmolyte and lipid biosynthesis was up-regulated in high saline conditions. However, concomitantly lipid oxidation pathways were also up-regulated at high saline conditions, providing acetyl-CoA for energy metabolism through the TCA cycle. Carbon fixation and photosynthesis were tightly regulated, while chlorophyll biosynthesis was affected under high salinity conditions. Importantly, temporal proteome analysis of salinity-challenged M. gaditana revealed vital salinity-responsive proteins which could be used for strain engineering for improved salinity resistance&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal acclimation of Microchloropsis gaditana CCMP526 in response to hypersalinity</title>
+      <link>/project/algal-stress-response/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/algal-stress-response/</guid>
+      <description>&lt;p&gt;Evaporation from culture ponds and raceways can subject algae to hypersalinity stress, and this is exacerbated by global warming. We investigated the effect of salinity on a marine microalga, Microchloropsis gaditana, which is of industrial significance because of its high lipid-accumulating capability. Both short-term (hours) and medium-term (days) effects of salinity were studied across various salinities (38, 55, 70 and 100 PSU). Salinity above 55 PSU supressed cell growth and specific growth rate was significantly reduced at 100 PSU. Photosynthesis (Fv/Fm, rETRmax and Ik) was severely affected at high salinity conditions. Total carbohydrate per cell increased ~1.7 fold after 24 hr, which is consistent with previous findings that salinity induces osmolyte production to counter osmotic shock. In addition, accumulation of lipid increased by ~4.6 fold in response to salinity. Our findings indicate a possible mechanism of acclimation to salinity, opening up new frontiers for osmolytes in pharmacological and cosmetics applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal acclimation of Microchloropsis gaditana CCMP526 in response to hypersalinity</title>
+      <link>/publication/algae-physiology/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/algae-physiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time for Multiple Extraction Methods in Proteomics? A Comparison of Three Protein Extraction Methods in the Eustigmatophyte Alga Microchloropsis gaditana CCMP526</title>
+      <link>/publication/omics-research/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/omics-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time for multiple protein extraction methods in proteomics?</title>
+      <link>/project/algal-protein-extraction/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/project/algal-protein-extraction/</guid>
+      <description>&lt;p&gt;Proteomics has become a valuable tool for investigating many aspects of cell and organismal biology. However, a fundamental requirement for an accurate examination of the protein complement of cells is an efficient method for extracting the proteins. This study reports the evaluation of three protein extraction methods; TCA-Acetone, phenol, and TRIzol, on Microchloropsis gaditana CCMP526 for proteomic analysis. LC-MS/MS based proteomic analysis was performed for proteins obtained using the different methods and the effect of the different extraction methods was examined by abundance ratio. Sub-cellular localization of the identified proteins revealed no significant difference between the extraction methods. Protein yield was higher using the TCA-Acetone and phenol methods than with the TRIzol method. A comparative analysis of three extraction methods revealed that the TCA method was superior in terms of protein coverage and abundance. Further, it was interesting to note that each method revealed a unique set of proteins, reinstating the importance of using multiple protein extraction methods for comprehensive proteome coverage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-omics Frontiers in Algal Research- Techniques and Progress to Explore Biofuels in the Postgenomics World</title>
+      <link>/publication/omics-review/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/omics-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Anbarasu Karthikaichamy</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Molecular toolkit for marine protists</title>
+      <link>/project/labyrinthulomycete-/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/labyrinthulomycete-/</guid>
+      <description>&lt;p&gt;Labyrinthulomycetes are osmoheterotrophic unicellular eukaryotes that play fungus-like roles in marine ecosystems and are also used biotechnologically in the production of essential omega-3 polyunsaturated fatty acid dietary supplements. Our long-term goal is to develop tools and techniques that enable functional genomic studies in marine protists. We have developed a plasmid to visualize actin filament polymerization during ectoplasmic net formation in Aurantiochytrium. Recently, we have started working on comparative genome analysis of the mitogenome of Labyrinthulomycetes (thraustochytrids, aplanochytrids, and labyrinthulids), that addresses the unique codon usage and inter-organellar gene transfer in Labyrinthulomycetes.
+link: &lt;a href=&#34;http://you.stonybrook.edu/labyrinthulomycetes/&#34;&gt;http://you.stonybrook.edu/labyrinthulomycetes/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DIA-based proteomic approach towards understanding the acclimation strategy of Microchloropsis gaditana CCMP526 in hypersaline conditions</title>
+      <link>/project/algal-stress-response-proteomics/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/algal-stress-response-proteomics/</guid>
+      <description>&lt;p&gt;Salinity is one of the significant factors that affect growth and cellular metabolism, including photosynthesis and lipid accumulation, in microalgae and higher plants. Microchloropsis gaditana CCMP526 can acclimatize to different salinity levels by accumulating compatible solutes, carbohydrates, and lipids as an energy storage molecule. We used proteomics to understand the molecular basis for acclimation of M. gaditana to increased salinity levels (55 and 100 PSU (Practical Salinity Unit). Correspondence analysis (CA) was used for the identification of salinity-responsive proteins (SRPs). The highest number of altered proteins was observed in 100 PSU. Gene Ontology (GO) enrichment analysis revealed a separate path of acclimation for cells exposed to 55 and 100 PSU. Osmolyte and lipid biosynthesis was up-regulated in high saline conditions. However, concomitantly lipid oxidation pathways were also up-regulated at high saline conditions, providing acetyl-CoA for energy metabolism through the TCA cycle. Carbon fixation and photosynthesis were tightly regulated, while chlorophyll biosynthesis was affected under high salinity conditions. Importantly, temporal proteome analysis of salinity-challenged M. gaditana revealed vital salinity-responsive proteins which could be used for strain engineering for improved salinity resistance&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Temporal acclimation of Microchloropsis gaditana CCMP526 in response to hypersalinity</title>
+      <link>/project/algal-stress-response/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/project/algal-stress-response/</guid>
+      <description>&lt;p&gt;Evaporation from culture ponds and raceways can subject algae to hypersalinity stress, and this is exacerbated by global warming. We investigated the effect of salinity on a marine microalga, Microchloropsis gaditana, which is of industrial significance because of its high lipid-accumulating capability. Both short-term (hours) and medium-term (days) effects of salinity were studied across various salinities (38, 55, 70 and 100 PSU). Salinity above 55 PSU supressed cell growth and specific growth rate was significantly reduced at 100 PSU. Photosynthesis (Fv/Fm, rETRmax and Ik) was severely affected at high salinity conditions. Total carbohydrate per cell increased ~1.7 fold after 24 hr, which is consistent with previous findings that salinity induces osmolyte production to counter osmotic shock. In addition, accumulation of lipid increased by ~4.6 fold in response to salinity. Our findings indicate a possible mechanism of acclimation to salinity, opening up new frontiers for osmolytes in pharmacological and cosmetics applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Time for multiple protein extraction methods in proteomics?</title>
+      <link>/project/algal-protein-extraction/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/project/algal-protein-extraction/</guid>
+      <description>&lt;p&gt;Proteomics has become a valuable tool for investigating many aspects of cell and organismal biology. However, a fundamental requirement for an accurate examination of the protein complement of cells is an efficient method for extracting the proteins. This study reports the evaluation of three protein extraction methods; TCA-Acetone, phenol, and TRIzol, on Microchloropsis gaditana CCMP526 for proteomic analysis. LC-MS/MS based proteomic analysis was performed for proteins obtained using the different methods and the effect of the different extraction methods was examined by abundance ratio. Sub-cellular localization of the identified proteins revealed no significant difference between the extraction methods. Protein yield was higher using the TCA-Acetone and phenol methods than with the TRIzol method. A comparative analysis of three extraction methods revealed that the TCA method was superior in terms of protein coverage and abundance. Further, it was interesting to note that each method revealed a unique set of proteins, reinstating the importance of using multiple protein extraction methods for comprehensive proteome coverage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding the Molecular Significance of c-Src and mTor in Estrogen Mediated Breast Cancer Proliferation – an Invitro Study</title>
+      <link>/project/breast-cancer/</link>
+      <pubDate>Mon, 27 May 2013 00:00:00 +0000</pubDate>
+      <guid>/project/breast-cancer/</guid>
+      <description>&lt;p&gt;Estrogen plays a major role through transcriptional regulation of its target genes. 17β-Estradiol, the predominant circulating estrogen, is known to be a major causative factor in the tumorigenesis of breast cancer. It acts on its target cells through genomic or non-genomic pathway, both involving binding of estrogen to estrogen receptor (ER). Invitro studies using MCF-7 (ER +ve, breast cancer cells) have shown that estrogen independently cannot activate the proliferation of serum starved MCF-7 cells, unless supplemented with certain growth factors like IGF, EGF, etc. Therefore the study attempts to understand the exact role of estrogen in modulating the transcriptional activity of c-Src and mTOR. MCF-7 cells showed increased proliferation rate in mitogenic response to 17β Estradiol (10 nM). To understand the role of non-genomic adaptor proteins in E2 mediated breast cancer proliferation, MCF7 cells were treated with c-Src inhibitor PP1 (10, 100 nM) in the presence and absence of E2. Interestingly, we observed a suppression of cell proliferation in PP1 treated cells whereas addition of E2 increased cell proliferation in a time dependent manner. mTOR inhibitor rapamycin (10nM) alone enhanced cell proliferation whereas in the presence of E2, a suppression in cell growth was observed, coinciding with the 3-H thymidine uptake assay. To understand further, downstream of E2 responsive genes (pS2 and WISP-2) were studied using RT-PCR. GAPDH was used as loading control. Western blot analysis of cell cycle markers such as Cyclin D3, Cyclin E, Cyclin dependent kinases (CDK 2 and 4) and E2F revealed that the inhibition of proliferation is not due to cell cycle arrest. β-actin was used as a loading control. Long term effect on cell proliferation was also studied using colony formation assay. Conclusively all these results show that c-Src is active only when stimulated by liganded estrogen receptor (ER). The same is the case with the rapamycin. These results help to understand insights about c-Src and mTOR and in development of effective drugs against estrogen positive breast cancer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolution of the RNase P RNA structural domain in Leptospira spp.</title>
+      <link>/project/leptospira/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/project/leptospira/</guid>
+      <description>&lt;p&gt;We have employed the RNase P RNA (RPR) gene, which is present as single copy in chromosome I of Leptospira spp. to investigate the phylogeny of structural domains present in the RNA subunit of the tRNA processing enzyme, RNase P. RPR gene sequences of 150 strains derived from NCBI database along with sequences determined from 8 reference strains were examined to fathom strain specific structural differences present in leptospiral RPR. Sequence variations in the RPR gene impacted on the configuration of loops, stems and bulges found in the RPR highlighting species and strain specific structural motifs. In vitro transcribed leptospiral RPR ribozymes are demonstrated to process pre-tRNA into mature tRNA in consonance with the positioning of Leptospira in the taxonomic domain of bacteria. RPR sequence datasets used to construct a phylogenetic tree exemplified the segregation of strains into their respective lineages with a (re)speciation of strain SH 9 to Leptospira borgpetersenii, strains Fiocruz LV 3954 and Fiocruz LV 4135 to Leptospira santarosai, strain CBC 613 to Leptospira kirschneri and strain HAI 1536 to Leptospira noguchii. Furthermore, it allowed characterization of an isolate P2653, presumptively characterized as either serovar Hebdomadis, Kremastos or Longnan to Leptospira weilii, serovar Longnan.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

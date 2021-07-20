@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Anbarasu Karthikaichamy</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 May 2018 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Algae that grows on toxic gas and a reactive metal!</title>
+      <link>/talk/rss/</link>
+      <pubDate>Fri, 18 May 2018 09:00:00 +0000</pubDate>
+      <guid>/talk/rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Acclimation of Microchloropsis gaditana CCMP526 in resposne to hyper-osmolarity</title>
+      <link>/talk/ipc/</link>
+      <pubDate>Sun, 13 Aug 2017 09:00:00 +0000</pubDate>
+      <guid>/talk/ipc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Investigation of Extraction Methods for Proteomic Analysis of Nannochloropsis gaditana CCMP526</title>
+      <link>/talk/abo/</link>
+      <pubDate>Sun, 23 Oct 2016 09:00:00 +0000</pubDate>
+      <guid>/talk/abo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

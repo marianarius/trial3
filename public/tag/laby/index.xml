@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laby | Anbarasu Karthikaichamy</title>
+    <link>/tag/laby/</link>
+      <atom:link href="/tag/laby/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laby</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Laby</title>
+      <link>/tag/laby/</link>
+    </image>
+    
+    <item>
+      <title>Molecular toolkit for marine protists</title>
+      <link>/project/labyrinthulomycete-/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/labyrinthulomycete-/</guid>
+      <description>&lt;p&gt;Labyrinthulomycetes are osmoheterotrophic unicellular eukaryotes that play fungus-like roles in marine ecosystems and are also used biotechnologically in the production of essential omega-3 polyunsaturated fatty acid dietary supplements. Our long-term goal is to develop tools and techniques that enable functional genomic studies in marine protists. We have developed a plasmid to visualize actin filament polymerization during ectoplasmic net formation in Aurantiochytrium. Recently, we have started working on comparative genome analysis of the mitogenome of Labyrinthulomycetes (thraustochytrids, aplanochytrids, and labyrinthulids), that addresses the unique codon usage and inter-organellar gene transfer in Labyrinthulomycetes.
+link: &lt;a href=&#34;http://you.stonybrook.edu/labyrinthulomycetes/&#34;&gt;http://you.stonybrook.edu/labyrinthulomycetes/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

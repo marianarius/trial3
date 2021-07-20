@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leptospira | Anbarasu Karthikaichamy</title>
+    <link>/tag/leptospira/</link>
+      <atom:link href="/tag/leptospira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leptospira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Leptospira</title>
+      <link>/tag/leptospira/</link>
+    </image>
+    
+    <item>
+      <title>Evolution of the RNase P RNA structural domain in Leptospira spp.</title>
+      <link>/publication/resmic/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/resmic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of the RNase P RNA structural domain in Leptospira spp.</title>
+      <link>/project/leptospira/</link>
+      <pubDate>Wed, 27 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/project/leptospira/</guid>
+      <description>&lt;p&gt;We have employed the RNase P RNA (RPR) gene, which is present as single copy in chromosome I of Leptospira spp. to investigate the phylogeny of structural domains present in the RNA subunit of the tRNA processing enzyme, RNase P. RPR gene sequences of 150 strains derived from NCBI database along with sequences determined from 8 reference strains were examined to fathom strain specific structural differences present in leptospiral RPR. Sequence variations in the RPR gene impacted on the configuration of loops, stems and bulges found in the RPR highlighting species and strain specific structural motifs. In vitro transcribed leptospiral RPR ribozymes are demonstrated to process pre-tRNA into mature tRNA in consonance with the positioning of Leptospira in the taxonomic domain of bacteria. RPR sequence datasets used to construct a phylogenetic tree exemplified the segregation of strains into their respective lineages with a (re)speciation of strain SH 9 to Leptospira borgpetersenii, strains Fiocruz LV 3954 and Fiocruz LV 4135 to Leptospira santarosai, strain CBC 613 to Leptospira kirschneri and strain HAI 1536 to Leptospira noguchii. Furthermore, it allowed characterization of an isolate P2653, presumptively characterized as either serovar Hebdomadis, Kremastos or Longnan to Leptospira weilii, serovar Longnan.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

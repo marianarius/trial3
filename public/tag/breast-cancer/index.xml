@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breast cancer | Anbarasu Karthikaichamy</title>
+    <link>/tag/breast-cancer/</link>
+      <atom:link href="/tag/breast-cancer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Breast cancer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 May 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Breast cancer</title>
+      <link>/tag/breast-cancer/</link>
+    </image>
+    
+    <item>
+      <title>Understanding the Molecular Significance of c-Src and mTor in Estrogen Mediated Breast Cancer Proliferation – an Invitro Study</title>
+      <link>/project/breast-cancer/</link>
+      <pubDate>Mon, 27 May 2013 00:00:00 +0000</pubDate>
+      <guid>/project/breast-cancer/</guid>
+      <description>&lt;p&gt;Estrogen plays a major role through transcriptional regulation of its target genes. 17β-Estradiol, the predominant circulating estrogen, is known to be a major causative factor in the tumorigenesis of breast cancer. It acts on its target cells through genomic or non-genomic pathway, both involving binding of estrogen to estrogen receptor (ER). Invitro studies using MCF-7 (ER +ve, breast cancer cells) have shown that estrogen independently cannot activate the proliferation of serum starved MCF-7 cells, unless supplemented with certain growth factors like IGF, EGF, etc. Therefore the study attempts to understand the exact role of estrogen in modulating the transcriptional activity of c-Src and mTOR. MCF-7 cells showed increased proliferation rate in mitogenic response to 17β Estradiol (10 nM). To understand the role of non-genomic adaptor proteins in E2 mediated breast cancer proliferation, MCF7 cells were treated with c-Src inhibitor PP1 (10, 100 nM) in the presence and absence of E2. Interestingly, we observed a suppression of cell proliferation in PP1 treated cells whereas addition of E2 increased cell proliferation in a time dependent manner. mTOR inhibitor rapamycin (10nM) alone enhanced cell proliferation whereas in the presence of E2, a suppression in cell growth was observed, coinciding with the 3-H thymidine uptake assay. To understand further, downstream of E2 responsive genes (pS2 and WISP-2) were studied using RT-PCR. GAPDH was used as loading control. Western blot analysis of cell cycle markers such as Cyclin D3, Cyclin E, Cyclin dependent kinases (CDK 2 and 4) and E2F revealed that the inhibition of proliferation is not due to cell cycle arrest. β-actin was used as a loading control. Long term effect on cell proliferation was also studied using colony formation assay. Conclusively all these results show that c-Src is active only when stimulated by liganded estrogen receptor (ER). The same is the case with the rapamycin. These results help to understand insights about c-Src and mTOR and in development of effective drugs against estrogen positive breast cancer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

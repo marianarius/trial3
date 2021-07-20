@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vineeta Rai | Anbarasu Karthikaichamy</title>
+    <link>/author/vineeta-rai/</link>
+      <atom:link href="/author/vineeta-rai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vineeta Rai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Vineeta Rai</title>
+      <link>/author/vineeta-rai/</link>
+    </image>
+    
+    <item>
+      <title>Time for Multiple Extraction Methods in Proteomics? A Comparison of Three Protein Extraction Methods in the Eustigmatophyte Alga Microchloropsis gaditana CCMP526</title>
+      <link>/publication/omics-research/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/omics-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-omics Frontiers in Algal Research- Techniques and Progress to Explore Biofuels in the Postgenomics World</title>
+      <link>/publication/omics-review/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/omics-review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
